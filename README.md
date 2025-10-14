@@ -6,10 +6,11 @@ Implementing and monitoring SOC 2 compliance is a journey that requires a struct
 
 Here you will find a comprehensive, scalable framework for implementing and monitoring SOC 2 compliance, designed to grow with an organization from its startup phase to a global enterprise.  
 
+<img width="1450" height="724" alt="image" src="https://github.com/user-attachments/assets/8933fa03-aa41-488a-b8fc-9b86f40caff0" /> 
+
 ---
 
-## **Phase 1: Foundation & Scoping (The "Plan" Phase)**
-
+## **Phase 1: Foundation & Scoping (The "Plan" Phase)**  
 This phase is about understanding what you need to protect and what you're being asked to deliver.
 
 | Maturity Level | Activities & Considerations |
