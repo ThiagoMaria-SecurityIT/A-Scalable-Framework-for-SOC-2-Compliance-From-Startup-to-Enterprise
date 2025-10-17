@@ -5,6 +5,8 @@
 SOC 2 (System and Organization Controls 2) is a framework developed by the American Institute of Certified Public Accountants (AICPA) that defines criteria for managing customer data based on five Trust Services Criteria (TSCs). Unlike other compliance frameworks, SOC 2 is flexible and can be tailored to an organization's specific services and needs.
 
 ## The Five Trust Services Criteria
+<img src="resources/soc-2-trust-service-principles.jpg" width=50% height=50%>
+
 
 ### 1. Security 🔒
 **The Common Criteria - Mandatory for All SOC 2 Reports**
